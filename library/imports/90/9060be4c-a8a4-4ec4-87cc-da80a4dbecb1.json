@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dk-fry",
+    "texture": "c8912c98-9e2c-4030-ad72-cb1faea9147e",
+    "atlas": "",
+    "rect": [
+      74,
+      16,
+      128,
+      149
+    ],
+    "offset": [
+      4,
+      14
+    ],
+    "originalSize": [
+      268,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

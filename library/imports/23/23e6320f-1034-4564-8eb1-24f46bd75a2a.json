@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dk-free-2",
+    "texture": "46bea417-a3b5-4686-bb87-97828600eda0",
+    "atlas": "",
+    "rect": [
+      64,
+      22,
+      127,
+      173
+    ],
+    "offset": [
+      -6.5,
+      -4
+    ],
+    "originalSize": [
+      268,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

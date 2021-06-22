@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "longzhigu_bg1",
+    "texture": "01ff66c8-d52f-4a11-b029-f677a8869939",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
